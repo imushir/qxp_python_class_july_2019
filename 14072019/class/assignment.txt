@@ -1,0 +1,5 @@
+#Currency converter.
+
+Write a module that content currency converter functions for
+USD, KUWAIT, AFRICA, UAE, CHINA, JAPAN, EUROPE country.
+Take INR value from user and give selection option for country currency.

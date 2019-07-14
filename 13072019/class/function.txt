@@ -1,0 +1,23 @@
+def function_name(param1, param2, ...., paramN):
+    """
+    Function description
+
+    :param param1: description
+    :type param1: int or float or tuple or list or dict
+                 !
+                 !
+                 !
+                 !
+    :param paramN: description
+    :type paramN: int or float or tuple or list or dict
+    :returns: what function will return write the description.
+    :rtype: int or float or tuple or list or dict or object
+    :author: NAME of programmer
+
+    """
+    function body starts
+         !
+         !
+         !
+    function body ends
+    return statement   (By default funciton return None)

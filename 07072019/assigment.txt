@@ -1,0 +1,12 @@
+1. Count the number of vowels and consonant from the following string.
+   string_val = "Welcome to Quickxpert Python Class."
+
+2.Generate the days list. Take the each day value from user.
+  And validate the user input for correct day entry.
+
+3.Make calculator program for addition, substraction, multiple and division.
+  Give user to select the method on the screen.
+  Give Yes or NO if user want to continue the program.
+
+4. Count the number of even and odd number present in following list.
+   num_list = [10, 12, 17, 19, 23, 45, 49, 3, 4, 25, 17]
