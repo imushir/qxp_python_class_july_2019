@@ -1,0 +1,10 @@
+file_obj = open("file_path", mode)  # open is inbuild method
+# Default mode read
+#mode = r, w, a, r+, w+, a+, rb, wb, ab, rb+, wb+, ab+
+read()
+readline()
+readlines()
+write()
+writelines()
+
+

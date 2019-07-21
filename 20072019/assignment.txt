@@ -1,0 +1,12 @@
+# Write all the code using function with doc string.
+
+1. Read a file of sports instruments and calculate the total amount to pay.
+and write the total amount in total_amount.txt file that content total amount
+as column header and its respective in value in next row and content the 
+purchased items in one row.Use try and except block to avoid file not found error.
+
+2.Take input from user for employee name, employee DOB and employee department
+ and write it into employee_details.txt file that content 
+ Employee name, DOB, Department as the column header.
+
+

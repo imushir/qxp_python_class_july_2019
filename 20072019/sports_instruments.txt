@@ -1,0 +1,11 @@
+itemname price
+bat|Rs 20
+basketball|Rs 50
+gloves|Rs 60
+stumps|Rs 80
+ball|Rs 100
+bottle|Rs 70
+thigh pad|Rs 150
+helmet|Rs 500
+football|Rs 200
+tshirt|Rs 300

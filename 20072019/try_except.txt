@@ -1,0 +1,34 @@
+try:
+    statement 1
+        !
+        !
+        !
+        !
+    statement N
+except exception_name as variable_name_one:
+    statement 1
+        !
+        !
+        !
+    statement N
+except Exception as variable_name_two: # Exception is base class
+    statement 1
+        !
+        !
+        !
+    statement N
+else:
+    statement 1
+       !
+       !
+       !
+    statement N
+finally:
+      # wtite down clean up activity 
+      # E.g file closing, database connection closing
+      statement 1
+         !
+         !
+         !
+         !
+      statement N
