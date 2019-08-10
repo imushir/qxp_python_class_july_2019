@@ -1,0 +1,10 @@
+1. Take the employee details name, date of birth, designation, department,
+employee code from user and write the details in employee_details.txt file.
+employee_details.txt contains the header as Employee CODE, NAME, DOB, DESIGNATION,
+DEPARTMENT.Values inside file should be tab seperated.
+Take number of employee from user.
+Write a program using class.
+
+2. Create the class for  Circle, Rectangle, Square and print the area of each class.
+Write a program using class.
+

@@ -1,0 +1,54 @@
+class ClassName:
+    """
+    Class documentation
+
+    """
+
+    class_var1 = value1
+    class_var2 = value2
+         !
+         !
+         !
+    class_varN = valueN
+
+    def __init__(self, var1, var2,...., varN):
+        """
+        This initializes the object values.
+
+        """
+        self.variable_name1 = var1
+        self.variable_name2 = var2
+                !
+                !
+                !
+        self.variable_nameN = varN
+    
+    def method_one(self, param1, ..., paramN):
+        """
+        Method documentation
+
+        """
+        self.variable_name1 = 12
+        self.variable_name2 = 13
+        statement 1
+           !
+           !
+        statement N
+        self.method_two(parameter_list)
+
+    def method_N(self, param1,..., paramN):
+        """
+        Method documentation
+        """
+        statement 1
+           !
+           !
+           !
+        statement N
+
+if __name__ = "__main__":
+
+     class_obj_one = ClassName(var1, var2, ..., varN)
+     class_obj_two = ClassName(var1, var2, ..., varN)
+     class_obj_one.method_one(parameters_values)
+     class_obj_two.method_one(parameters_values)
