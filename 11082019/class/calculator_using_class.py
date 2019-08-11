@@ -39,4 +39,4 @@ if __name__ == "__main__":
         div_result = cal_obj.division()
         print("Division of {} and {} is {}".format(x_num, y_num, div_result))
     else:
-        print("Wrong choice")
+        print("Please Select valid choice")
