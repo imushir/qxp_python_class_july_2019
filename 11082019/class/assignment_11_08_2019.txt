@@ -1,0 +1,9 @@
+Create the Employee as base class and BankDetails as first child class,
+AccountantEmployee as second child class.
+Inherit the Employee and BankDetails class in AccountantEmployee class.
+Employee class contain the company name, country name, year of esablished.
+BankDetails class contain the bank name, salary amount of employee,
+bank account number, ifsc code
+and AccountantEmployee class contain the accountant employee name, date of birth,
+employee code, shif timing, department, work location, designation.
+Print the details for accountant employee.
