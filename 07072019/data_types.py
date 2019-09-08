@@ -19,4 +19,4 @@ print("New values after extend is ", list_val)
 
 
 alpha_map = {1: "A", 2: "B", 3: "C"}
-print("Firts alphabet is : ", alpha_map.get(4, "Not Valid"))
+print("Firts alphabet is : ", alpha_map.get(3, "Not Valid"))

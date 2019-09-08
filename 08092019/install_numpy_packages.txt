@@ -1,0 +1,9 @@
+-- For numpy matplotlib and pandas only
+
+python -m pip install --user numpy matplotlib pandas
+
+=======================================================
+
+-- For all packages 
+
+python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
